@@ -149,5 +149,9 @@
             </plugin>
         </plugins>
     </build>
-
+	<developers>
+		<developer>
+			<name> Luiz </name>
+		</developer>
+	</developers>
 </project>
